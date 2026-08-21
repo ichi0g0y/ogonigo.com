@@ -161,6 +161,14 @@ img {
 	background-color: rgba(0, 0, 0, 0.05);
 }
 
+/* not found notice */
+.card-notice {
+	margin: 0 0 14px 0;
+	color: #999999;
+	font-size: 0.8rem;
+	letter-spacing: 0.04em;
+}
+
 @media
 	screen and (max-width: 860px),
 	screen and (max-device-width: 736px) {
